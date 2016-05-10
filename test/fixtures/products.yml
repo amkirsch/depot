@@ -13,7 +13,7 @@ two:
   price: 9.99
 
 cheese:
-  title: Cheese 
+  title: Cheese
   description: Glorious cheese!
   image_url: cheese.png
   price: 4.99
@@ -21,5 +21,5 @@ cheese:
 book:
   title: Book
   description: It's a book!
-  image_url: book.png 
+  image_url: book.png
   price: 19.99
